@@ -1,4 +1,5 @@
-This script can spoof mac adress and can do Man In The Middle Attack over LAN Network or Wifi Network (Wifi Without Radius Server Tested ). 
+This script can spoof mac adress and can do Man In The Middle Attack 
+OVER LAN Network or Wifi Network (Wifi Without Radius Server Tested ). 
 Wifi with radius server needs to be Tested soon) .\
 It will spoof your mac to victim's one . 
 Capture his packet then transfer those packets from you to victim your machine's port will be farwarded  .
